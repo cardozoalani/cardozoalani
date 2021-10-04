@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alan</h1>
-<h3 align="center">I'm a Software developer focused in create end-to-end awesome products. 
-  Full Stack developer at <a href='https://coderio.co/' target="_blank">_coderio</a> and creator of <a href='https://tiendadata.com' target="_blank">Tiendadata</a>.</h3>
+<h3 align="center">I'm a Software developer focused in create end-to-end awesome products. I currently perform as Full Stack developer at <a href='https://coderio.co/' target="_blank">_coderio</a> and creator of <a href='https://tiendadata.com' target="_blank">Tiendadata</a>.</h3>
 
 - 🔭 I’m currently working **@ [_coderio](https://coderio.co/)**
 
